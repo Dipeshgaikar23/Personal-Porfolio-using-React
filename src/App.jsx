@@ -7,6 +7,7 @@ import Achievements from "./components/Achievements";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
 import ScrollProgress from "./components/ScrollProgress";
+import React from "react";
 
 export default function App() {
   return (
