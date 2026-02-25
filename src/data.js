@@ -13,7 +13,7 @@ export const PROFILE = {
     "Results-driven Full Stack Developer with 2+ years in JavaScript, React, Node.js, and MongoDB. Passionate about building scalable apps and solving complex problems. Strong MERN focus, Agile mindset, and end-to-end delivery.",
 };
 
-export const EDUCATION = [
+export const EDUCATION = [ 
   {
     degree: "B.E. in Information Technology (2023 - Pursuing)",
     school: "MES Pillai HOC College of Engineering & Technology, Rasayani",
