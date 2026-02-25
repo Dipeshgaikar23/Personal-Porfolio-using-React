@@ -9,6 +9,8 @@ export const PROFILE = {
   linkedin: "https://www.linkedin.com/in/dipeshgaikar23",
   instagram: "https://www.instagram.com/dipesh.gaikar/",
   resume: "/Dipesh_Gaikar_Resume.pdf", // served from public/
+  photo: "/profile.jpg",            // <-- add this (served from public/)
+  photoAlt: "Dipesh Gaikar portrait", // optional, good for accessibility
   summary:
     "Results-driven Full Stack Developer with 2+ years in JavaScript, React, Node.js, and MongoDB. Passionate about building scalable apps and solving complex problems. Strong MERN focus, Agile mindset, and end-to-end delivery.",
 };
